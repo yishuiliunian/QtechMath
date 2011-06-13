@@ -1,0 +1,69 @@
+\contentsline {paragraph}{}{I}
+\contentsline {paragraph}{}{I}
+\contentsline {chapter}{前言}{1}
+\contentsline {paragraph}{}{1}
+\contentsline {paragraph}{}{1}
+\contentsline {paragraph}{}{1}
+\contentsline {paragraph}{}{2}
+\contentsline {paragraph}{}{2}
+\contentsline {chapter}{\numberline {第一章\hspace {0.3em}}NIM游戏简介}{3}
+\contentsline {section}{\numberline {1.1}NIM游戏的起源和游戏规则}{3}
+\contentsline {paragraph}{}{3}
+\contentsline {section}{\numberline {1.2}NIM游戏的一般玩法}{4}
+\contentsline {paragraph}{}{5}
+\contentsline {paragraph}{}{5}
+\contentsline {paragraph}{}{5}
+\contentsline {paragraph}{}{5}
+\contentsline {chapter}{\numberline {第二章\hspace {0.3em}}NIM游戏的变形及其玩法}{7}
+\contentsline {section}{\numberline {2.1}威氏游戏（Wythoff's Game）}{7}
+\contentsline {paragraph}{}{7}
+\contentsline {paragraph}{}{7}
+\contentsline {paragraph}{}{8}
+\contentsline {paragraph}{}{8}
+\contentsline {paragraph}{}{8}
+\contentsline {paragraph}{}{8}
+\contentsline {paragraph}{}{8}
+\contentsline {section}{\numberline {2.2}单堆游戏}{8}
+\contentsline {subsection}{\numberline {2.2.1}简单的单堆游戏}{8}
+\contentsline {paragraph}{}{10}
+\contentsline {subsection}{\numberline {2.2.2}奇偶游戏}{10}
+\contentsline {subsection}{\numberline {2.2.3}随机单堆游戏}{10}
+\contentsline {paragraph}{}{10}
+\contentsline {subsection}{\numberline {2.2.4}双倍游戏}{11}
+\contentsline {section}{\numberline {2.3}擦线游戏}{11}
+\contentsline {section}{\numberline {2.4}方形棋}{11}
+\contentsline {paragraph}{}{11}
+\contentsline {paragraph}{}{11}
+\contentsline {chapter}{\numberline {第三章\hspace {0.3em}}NIM制胜策略的数学原理}{13}
+\contentsline {section}{\numberline {3.1}NIM游戏的制胜策略及其数学原理}{13}
+\contentsline {subsection}{\numberline {3.1.1}制胜模型一}{13}
+\contentsline {subsection}{\numberline {3.1.2}制胜模型二及其数学原理}{14}
+\contentsline {paragraph}{}{14}
+\contentsline {subsection}{\numberline {3.1.3}NIM游戏中的概率研究}{15}
+\contentsline {section}{\numberline {3.2}威氏游戏的致胜策略及数学原理}{16}
+\contentsline {subsection}{\numberline {3.2.1}威氏游戏的致胜策略}{16}
+\contentsline {paragraph}{}{17}
+\contentsline {subsection}{\numberline {3.2.2}威氏游戏致胜策略的数学原理}{17}
+\contentsline {paragraph}{}{17}
+\contentsline {paragraph}{}{17}
+\contentsline {paragraph}{}{18}
+\contentsline {paragraph}{}{18}
+\contentsline {paragraph}{}{18}
+\contentsline {paragraph}{}{18}
+\contentsline {chapter}{\numberline {第四章\hspace {0.3em}}简单NIM游戏的实现}{19}
+\contentsline {section}{\numberline {4.1}游戏实现分析及总体设计}{19}
+\contentsline {paragraph}{}{19}
+\contentsline {section}{\numberline {4.2}各模块的详细设计}{19}
+\contentsline {subsection}{\numberline {4.2.1}石子状态管理模块}{19}
+\contentsline {subsection}{\numberline {4.2.2}交互界面模块}{20}
+\contentsline {paragraph}{}{20}
+\contentsline {subsection}{\numberline {4.2.3}游戏控制模块}{21}
+\contentsline {subsection}{\numberline {4.2.4}机器游戏者模块}{21}
+\contentsline {section}{\numberline {4.3}游戏演示}{21}
+\contentsline {chapter}{致谢}{23}
+\contentsline {chapter}{参考文献}{24}
+\contentsline {chapter}{\numberline {附录\nobreakspace {}A\hspace {0.3em}}斐波那契数列表示法}{25}
+\contentsline {section}{\numberline {A.1}数制表示法}{25}
+\contentsline {paragraph}{}{25}
+\contentsline {section}{\numberline {A.2}斐波那契数列表示法}{25}
+\contentsline {chapter}{\numberline {附录\nobreakspace {}B\hspace {0.3em}}游戏源码}{27}
